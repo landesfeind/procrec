@@ -7,7 +7,7 @@ set xlabel "Times (s)" font ",12"
 set ytic auto
 set y2tic auto
 
-set yr[0:100]
+set yr[0:]
 set y2r[0:]
 set xtics auto
 
